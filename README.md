@@ -1,2 +1,3 @@
-# cissp
-Learning for CISSP
+# CISSP
+Learning material for CISSP
+
